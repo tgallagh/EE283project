@@ -1,0 +1,116 @@
+#RAW READS SUMMARY
+Raw_Fwd_Read_P1_1_ 	 286317
+Raw_Rev_Read_P1_1_ 	 286317
+Raw_Fwd_Read_P1_2_ 	 68414
+Raw_Rev_Read_P1_2_ 	 68414
+Raw_Fwd_Read_P1_3_ 	 223256
+Raw_Rev_Read_P1_3_ 	 223256
+Raw_Fwd_Read_P1_bdl1_ 	 412276
+Raw_Rev_Read_P1_bdl1_ 	 412276
+Raw_Fwd_Read_P1_bdl2_ 	 1093876
+Raw_Rev_Read_P1_bdl2_ 	 1093876
+Raw_Fwd_Read_P1_bdl3_ 	 1474474
+Raw_Rev_Read_P1_bdl3_ 	 1474474
+Raw_Fwd_Read_P1_la1_ 	 1153377
+Raw_Rev_Read_P1_la1_ 	 1153377
+Raw_Fwd_Read_P1_la2_ 	 689351
+Raw_Rev_Read_P1_la2_ 	 689351
+Raw_Fwd_Read_P1_la3_ 	 1082015
+Raw_Rev_Read_P1_la3_ 	 1082015
+#TRIMMOMATIC OUTPUT SUMMARY
+#READS WHERE BOTH MATES PASSES QF
+Trimm_Fwd_PairedRead_P 	 154763
+Trimm_Rev_PairedRead_P 	 155824
+Trimm_Fwd_PairedRead_P 	 23926
+Trimm_Rev_PairedRead_P 	 24378
+Trimm_Fwd_PairedRead_P 	 127964
+Trimm_Rev_PairedRead_P 	 128397
+Trimm_Fwd_PairedRead_P 	 254310
+Trimm_Rev_PairedRead_P 	 252941
+Trimm_Fwd_PairedRead_P 	 647793
+Trimm_Rev_PairedRead_P 	 655895
+Trimm_Fwd_PairedRead_P 	 905184
+Trimm_Rev_PairedRead_P 	 932212
+Trimm_Fwd_PairedRead_P 	 691198
+Trimm_Rev_PairedRead_P 	 710031
+Trimm_Fwd_PairedRead_P 	 424989
+Trimm_Rev_PairedRead_P 	 430768
+Trimm_Fwd_PairedRead_P 	 659776
+Trimm_Rev_PairedRead_P 	 675496
+#READS WHERE 1 MATE PASSES QF
+Trimm_Fwd_Read_P1_1_ 	 58299
+Trimm_Rev_Read_P1_1_ 	 5928
+Trimm_Fwd_Read_P1_2_ 	 10150
+Trimm_Rev_Read_P1_2_ 	 850
+Trimm_Fwd_Read_P1_3_ 	 42035
+Trimm_Rev_Read_P1_3_ 	 5294
+Trimm_Fwd_Read_P1_bdl1_ 	 74813
+Trimm_Rev_Read_P1_bdl1_ 	 10063
+Trimm_Fwd_Read_P1_bdl2_ 	 202677
+Trimm_Rev_Read_P1_bdl2_ 	 32520
+Trimm_Fwd_Read_P1_bdl3_ 	 286450
+Trimm_Rev_Read_P1_bdl3_ 	 37830
+Trimm_Fwd_Read_P1_la1_ 	 230119
+Trimm_Rev_Read_P1_la1_ 	 33142
+Trimm_Fwd_Read_P1_la2_ 	 124386
+Trimm_Rev_Read_P1_la2_ 	 21720
+Trimm_Fwd_Read_P1_la3_ 	 218567
+Trimm_Rev_Read_P1_la3_ 	 28173
+#OVERLAPPING PE READS
+Overlapping_reads_P1_1_ 	 137699
+Overlapping_reads_P1_2_ 	 18813
+Overlapping_reads_P1_3_ 	 115944
+Overlapping_reads_P1_bdl1_ 	 239415
+Overlapping_reads_P1_bdl2_ 	 620740
+Overlapping_reads_P1_bdl3_ 	 876682
+Overlapping_reads_P1_la1_ 	 662609
+Overlapping_reads_P1_la2_ 	 403414
+Overlapping_reads_P1_la3_ 	 634164
+#FINAL CLEANED READS AFTER RRNA REMOVAL
+SE_Final_P1_1_ 	 0
+Forward_Final_P1_1_ 	 0
+Reverse_Final_P1_1_ 	 0
+SE_Final_P1_2_ 	 0
+Forward_Final_P1_2_ 	 0
+Reverse_Final_P1_2_ 	 0
+SE_Final_P1_3_ 	 0
+Forward_Final_P1_3_ 	 0
+Reverse_Final_P1_3_ 	 0
+SE_Final_P1_bdl1_ 	 0
+Forward_Final_P1_bdl1_ 	 0
+Reverse_Final_P1_bdl1_ 	 0
+SE_Final_P1_bdl2_ 	 0
+Forward_Final_P1_bdl2_ 	 0
+Reverse_Final_P1_bdl2_ 	 0
+SE_Final_P1_bdl3_ 	 0
+Forward_Final_P1_bdl3_ 	 0
+Reverse_Final_P1_bdl3_ 	 0
+SE_Final_P1_la1_ 	 0
+Forward_Final_P1_la1_ 	 0
+Reverse_Final_P1_la1_ 	 0
+SE_Final_P1_la2_ 	 0
+Forward_Final_P1_la2_ 	 0
+Reverse_Final_P1_la2_ 	 0
+SE_Final_P1_la3_ 	 0
+Forward_Final_P1_la3_ 	 0
+Reverse_Final_P1_la3_ 	 0
+PERCENT ALIGNMENT OF RAW READS
+P1_1_raw_alignment 264741 + 0 mapped (51.04% : N/A)
+P1_2_raw_alignment 50820 + 0 mapped (40.75% : N/A)
+P1_3_raw_alignment 187261 + 0 mapped (46.40% : N/A)
+P1_bdl1_raw_alignment 314617 + 0 mapped (42.24% : N/A)
+P1_bdl2_raw_alignment 481664 + 0 mapped (49.71% : N/A)
+P1_bdl3_raw_alignment 0 + 0 mapped (N/A : N/A)
+P1_la1_raw_alignment 0 + 0 mapped (N/A : N/A)
+P1_la2_raw_alignment 497882 + 0 mapped (39.33% : N/A)
+P1_la3_raw_alignment 684976 + 0 mapped (34.50% : N/A)
+PERCENT ALIGNMENT OF PROCESSED READS
+P1_1_processed_alignment 27602 + 0 mapped (100.00% : N/A)
+P1_2_processed_alignment 7994 + 0 mapped (100.00% : N/A)
+P1_3_processed_alignment 19213 + 0 mapped (100.00% : N/A)
+P1_bdl1_processed_alignment 23757 + 0 mapped (100.00% : N/A)
+P1_bdl2_processed_alignment 43004 + 0 mapped (100.00% : N/A)
+P1_bdl3_processed_alignment 46317 + 0 mapped (100.00% : N/A)
+P1_la1_processed_alignment 47274 + 0 mapped (100.00% : N/A)
+P1_la2_processed_alignment 35785 + 0 mapped (100.00% : N/A)
+P1_la3_processed_alignment 41607 + 0 mapped (100.00% : N/A)
